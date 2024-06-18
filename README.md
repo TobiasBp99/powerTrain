@@ -10,11 +10,11 @@ The powerTrain V1.0.0 is a prototype that can control at least one brushless mot
 - CAN BUS to communicate with other potential modules (BMS/INFOTAINMENT/POWER TRAIN)
 - 3 (three) phase BLCD motor control
 - Inputs for multiple sensors (TPS/PAS/BRAKE)
-- Inputs/Outputs para manejar un tablero
-- Inputs/Outputs to manage a board
+- Inputs/Outputs to manage a dashboard
 Communication extensible to serial port
 - Power stage with error detection (OVERCURRENT/OVERTEMPERATURE)
 
-## PCB Design
-
 ## 3D Model
+![top](https://github.com/TobiasBp99/powerTrain/blob/master/images/topLayer.png)
+![bottom](https://github.com/TobiasBp99/powerTrain/blob/master/images/bottomLayer.png)
+![pcb](https://github.com/TobiasBp99/powerTrain/blob/master/images/pcb.png)
